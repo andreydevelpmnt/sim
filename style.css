@@ -5,7 +5,7 @@
 }
 .sim-cart__title {
 	font-weight: 400;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	font-size: 36px;
  	text-align: center;
  	color: #333333;
@@ -14,7 +14,6 @@
 	text-align: center;
 	color: #333333;
 	font-size: 20px;
-	line-height: 20px;
 	margin-bottom: 58px;
 }
 .sim-cart__block-info {
@@ -44,7 +43,7 @@
 	margin: 0 auto;
 }
 .sim-cart__block-info_item i {
-	color: #8cc961;
+	color: #f08c06;
 	font-size: 48px;
 	line-height: 70px;
 }
@@ -54,6 +53,8 @@
 	color: #ffffff;
 	margin-top: 10px;
 	line-height: 24px;
+	margin-top: 8px;
+	display: inline-block;
 }
 .sim-cart__block-info_label {
 	margin: 30px 0;
